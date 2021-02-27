@@ -7,9 +7,10 @@
     "start": "webpack serve",
     "build": "webpack --config webpack.prod.js"
   },
-  "author": "Agus G - contact@agusgarcia.com",
+  "author": "MARQUES BALULA Benjamin",
   "license": "ISC",
   "dependencies": {
+    "@babel/polyfill": "^7.12.1",
     "handlebars": "^4.7.6",
     "jquery": "^3.5.1",
     "webpack": "^5.18.0",

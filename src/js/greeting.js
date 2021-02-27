@@ -21,7 +21,7 @@ export default class Greeting {
         this.$els = {
             greeting: $('.js-greeting'),
         };
-        this.names = ['S4', 'developer', 'you', 'my friend'];
+        this.names = ['Ben', 'developer', 'you', 'my friend'];
     }
 
     initEvents () {
