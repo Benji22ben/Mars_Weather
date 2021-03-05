@@ -1,0 +1,23 @@
+.js-poftheday{
+    display: flex;
+    width: 50%;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.js-title{
+    font-size: 1.5rem;
+    margin-top: 70px;
+}
+.js-date{
+    font-size: 1.5rem;
+    top: 200px;
+    left: 0px;
+    position: absolute;
+}
+.js-explanation{
+    font-size: 1rem;
+    margin-top: 50px;
+    line-height: 27px;
+}
+// @media (max-width: px)
